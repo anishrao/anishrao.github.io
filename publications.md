@@ -4,6 +4,7 @@ title: Publications
 full-width: true
 ---
 ## From Graduate School at IISER Pune
+
 |   | Publication | TOC Image|
 |:--|:------------|:--------:|
 |13.| Shirin, S.; Roy, S.; **Rao, A.** * ; Pillai, P. P.* Accelerated Reduction of 4-Nitrophenol: Bridging Interaction Outplays Reducing Power in the Model Nanoparticle-Catalyzed Reaction. *J. Phys. Chem. C.* **2020**, *124*, 19157–19165 [link](https://pubs.acs.org/doi/10.1021/acs.jpcc.0c06237) | ![](/assets/img/Shana.gif)|
