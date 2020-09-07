@@ -6,7 +6,7 @@ full-width: true
 
 | Publication | TOC Image|
 |:------------|:--------:|
-|Rao, A.; Roy, S.; Unnikrishnan, M.; Bhosale, S. S.; Devatha, G.; Pillai, P. P.*  "Regulation of Interparticle Forces Reveals Controlled Aggregation in Charged Nanoparticles" Chem. Mater. 2016, 28, 2348-2355|![]{/assets/img/avatar-icon.png}|
+|Rao, A.; Roy, S.; Unnikrishnan, M.; Bhosale, S. S.; Devatha, G.; Pillai, P. P.*  "Regulation of Interparticle Forces Reveals Controlled Aggregation in Charged Nanoparticles" Chem. Mater. 2016, 28, 2348-2355|![](/assets/img/avatar-icon.png)|
 
-![](/assets/img/avatar-icon.png)
-added image
+
+added image to the table
