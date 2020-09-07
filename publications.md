@@ -1,8 +1,9 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Publications
 full-width: true
 ---
 
-Publication list
+| Publication | TOC Image|
+|:------------|:--------:|
+|Rao, A.; Roy, S.; Unnikrishnan, M.; Bhosale, S. S.; Devatha, G.; Pillai, P. P.*  "Regulation of Interparticle Forces Reveals Controlled Aggregation in Charged Nanoparticles" Chem. Mater. 2016, 28, 2348-2355|![]{/assets/img/avatar-icon.png}|
