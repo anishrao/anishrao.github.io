@@ -15,9 +15,6 @@ author: Anish Rao
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
   Publications: "publications"
 
 # --- Logo --- #
@@ -40,9 +37,8 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "anishrao95@gmail.com"
-  facebook: deanattali
-  github: daattali
-#  twitter: anishrao95
+  github: "https://github.com/anishrao"
+  twitter: "https://twitter.com/anishrao95"
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
