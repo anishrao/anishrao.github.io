@@ -6,7 +6,6 @@ full-width: true
 
 |   | Publication | TOC Image|
 |:--|:------------|:--------:|
-**From Graduate School at IISER Pune**
 |11.| Roy, P., Devatha, G., Roy, S., **Rao, A.**, Pillai, P. P., Electrostatically Driven Resonance Energy Transfer in an All-Quantum Dot Based Donor–Acceptor System. *J. Phys. Chem. Lett.* **2020**, *11*, 5354 - 5360. [link](https://pubs.acs.org/doi/10.1021/acs.jpclett.0c01360)| ![](/assets/img/TOC_final.jpg)|
 |10.| Devatha, G., Roy, P., **Rao, A.**, Roy, S., Pillai, P. P., Multicolor Luminescent Patterning via Photoregulation of Electron and Energy Transfer Processes in Quantum Dots. *J. Phys. Chem. Lett.* **2020**, *11*, 4099 - 4106. [link](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.0c01121)| ![](/assets/img/TOC_final.jpg)|
 |9.| Roy, S., Jain, V., Kashyap, R. K., **Rao, A.**, Pillai, P. P., Electrostatically Driven Multielectron Transfer for the Photocatalytic Regeneration of Nicotinamide Cofactor. *ACS Catal.*, **2020**, *10*, 5522 - 5528. [link](https://pubs.acs.org/doi/10.1021/acscatal.0c01478)| ![](/assets/img/TOC_final.jpg)| 
