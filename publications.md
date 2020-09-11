@@ -7,7 +7,6 @@ full-width: true
 
 |   | Publication | TOC Image|
 |:--|:------------|:--------:|
-|14.|![](/assets/img/Shana.gif)| Shirin, S.; Roy, S.; **Rao, A.** * ; Pillai, P. P.* Accelerated Reduction of 4-Nitrophenol: Bridging Interaction Outplays Reducing Power in the Model Nanoparticle-Catalyzed Reaction. *J. Phys. Chem. C.* **2020**, *124*, 19157–19165 [link](https://pubs.acs.org/doi/10.1021/acs.jpcc.0c06237) |
 |13.| Shirin, S.; Roy, S.; **Rao, A.** * ; Pillai, P. P.* Accelerated Reduction of 4-Nitrophenol: Bridging Interaction Outplays Reducing Power in the Model Nanoparticle-Catalyzed Reaction. *J. Phys. Chem. C.* **2020**, *124*, 19157–19165 [link](https://pubs.acs.org/doi/10.1021/acs.jpcc.0c06237) | ![](/assets/img/Shana.gif)|
 |12.| **Rao, A.**; Roy, S.; Pillai, P. P.* Temporal Fluctuations in Interparticle Interactions Drive the Formation of Transiently Stable Nanoparticle Precipitates *ChemRxiv* **2020** DOI: 10.26434/chemrxiv.12187272.v1 [link](https://chemrxiv.org/articles/Temporal_Fluctuations_in_Interparticle_Interactions_Drive_the_Formation_of_Transiently_Stable_Nanoparticle_Precipitates/12187272)|  ![](/assets/img/TOC.jpg)|
 |11.| Roy, P., Devatha, G., Roy, S., **Rao, A.**, Pillai, P. P., Electrostatically Driven Resonance Energy Transfer in an All-Quantum Dot Based Donor–Acceptor System. *J. Phys. Chem. Lett.* **2020**, *11*, 5354 - 5360. [link](https://pubs.acs.org/doi/10.1021/acs.jpclett.0c01360)| ![](/assets/img/Pradyut_JPCL.gif.jpg)|
