@@ -1,0 +1,23 @@
+---
+layout: page
+title: Publications
+full-width: true
+---
+## From Graduate School at IISER Pune
+
+|   | Publication | TOC Image|
+|:--|:------------|:--------:|
+|13.| Shirin, S.; Roy, S.; **Rao, A.** * ; Pillai, P. P.* Accelerated Reduction of 4-Nitrophenol: Bridging Interaction Outplays Reducing Power in the Model Nanoparticle-Catalyzed Reaction. *J. Phys. Chem. C.* **2020**, *124*, 19157–19165 [link](https://pubs.acs.org/doi/10.1021/acs.jpcc.0c06237) | ![](/assets/img/Shana.gif)|
+|12.| **Rao, A.**; Roy, S.; Pillai, P. P.* Temporal Fluctuations in Interparticle Interactions Drive the Formation of Transiently Stable Nanoparticle Precipitates *ChemRxiv* **2020** DOI: 10.26434/chemrxiv.12187272.v1 [link](https://chemrxiv.org/articles/Temporal_Fluctuations_in_Interparticle_Interactions_Drive_the_Formation_of_Transiently_Stable_Nanoparticle_Precipitates/12187272)|  ![](/assets/img/TOC.jpg)|
+|11.| Roy, P., Devatha, G., Roy, S., **Rao, A.**, Pillai, P. P., Electrostatically Driven Resonance Energy Transfer in an All-Quantum Dot Based Donor–Acceptor System. *J. Phys. Chem. Lett.* **2020**, *11*, 5354 - 5360. [link](https://pubs.acs.org/doi/10.1021/acs.jpclett.0c01360)| ![](/assets/img/Pradyut_JPCL.gif.jpg)|
+|10.| Devatha, G., Roy, P., **Rao, A.**, Roy, S., Pillai, P. P., Multicolor Luminescent Patterning via Photoregulation of Electron and Energy Transfer Processes in Quantum Dots. *J. Phys. Chem. Lett.* **2020**, *11*, 4099 - 4106. [link](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.0c01121)| ![](/assets/img/Gayathri_JPCL.gif)|
+|9.| Roy, S., Jain, V., Kashyap, R. K., **Rao, A.**, Pillai, P. P., Electrostatically Driven Multielectron Transfer for the Photocatalytic Regeneration of Nicotinamide Cofactor. *ACS Catal.*, **2020**, *10*, 5522 - 5528. [link](https://pubs.acs.org/doi/10.1021/acscatal.0c01478)| ![](/assets/img/Soumendu_NADH.gif)| 
+|8.| **Rao, A.**, Kumar, G. S., Roy, S., Ajesh, T. R., Devatha, G., Pillai, P. P., Turn-On Selectivity in Inherently Nonselective Gold Nanoparticles for Pb<sup>2+</sup> Detection by Preferential Breaking of Interparticle Interactions. *ACS Appl. Nano Mater.* **2019**, *2*, 5625 - 5633. [link](https://pubs.acs.org/doi/abs/10.1021/acsanm.9b01168) [ChemRxiv link](https://chemrxiv.org/articles/Emergence_of_Selectivity_in_Inherently_Nonselective_Gold_Nanoparticles_Through_Preferential_Breaking_of_Interparticle_Interactions/7195817/1)| ![](/assets/img/TOC2.png)| 
+|7.| Devatha, G., **Rao, A.**, Roy, S. Pillai, P. P., F<span>ö</span>rster Resonance Energy Transfer Regulated Multicolor Photopatterning from Single Quantum Dot Nanohybrid Films. *ACS Energy Lett.* **2019**, *4*, 1710 - 1716. [link](https://pubs.acs.org/doi/10.1021/acsenergylett.9b00832)| ![](/assets/img/Gayathri_ACSEnergyLett.gif)| 
+|6.| Chakraborty, I.; Roy, S.; Devatha, G.; **Rao, A.**; Pillai, P. P., InP/ZnS Quantum Dots as Efficient Visible-Light Photocatalysts for Redox and Carbon-Carbon Coupling Reaction. *Chem. Mater.* **2019**, *31*, 2258 - 2262. [link](https://pubs.acs.org/doi/10.1021/acs.chemmater.9b00086)| ![](/assets/img/Indra_ChemMat.gif)| 
+|5.| Roy, S., Roy, S., **Rao, A.**, Devatha, G., Pillai P. P., Precise Nanoparticle-Reactant Interaction Outplays Ligand Poisoning in Visible-Light Photocatalysis. *Chem. Mater.* **2018**, *30*, 8415 - 8419. [link](https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.8b03108)| ![](/assets/img/Soumendu_ferricyanide.png)| 
+|4.| Xavier, J. A. M., Devatha, G., Roy, S., **Rao, A.**, Pillai, P. P., Electrostatically Regulated Photoinduced Electron Transfer in "Cationic" Eco-friendly CuInS<sub>2</sub>/ZnS Quantum Dots in Water. *J. Mater. Chem. A* **2018**, *6*, 22248 - 22255. [link](https://pubs.rsc.org/en/content/articlelanding/2018/ta/c8ta05269g#!divAbstract)| ![](/assets/img/JMCA_Jewel.gif)| 
+|3.| Roy, S., **Rao, A.**, Devatha, G., Pillai, P. P., Revealing the Role of Electrostatics in Gold-Nanoparticle-Catalyzed Reduction of Charged Substrates. *ACS Catal.* **2017**, *7*, 7141 - 7145. [link](https://pubs.acs.org/doi/10.1021/acscatal.7b02292)| ![](/assets/img/TOC_Soumendu_ACS_First.gif)|
+|2. |Devatha, G.; Roy, S.; **Rao, A**; Mallick, A.; Basu, S.; Pillai, P. P.*  Electrostatically Driven Resonance Energy Transfer in “Cationic” Biocompatible Indium Phosphide Quantum Dots *Chem. Sci.* **2017**, *8*, 3879-3884. [link](https://pubs.rsc.org/en/content/articlehtml/2017/sc/c7sc00592j)|![](/assets/img/ChemSci_GayathriTOC.png)|
+|1. |**Rao, A.**; Roy, S.; Unnikrishnan, M.; Bhosale, S. S.; Devatha, G.; Pillai, P. P.*  Regulation of Interparticle Forces Reveals Controlled Aggregation in Charged Nanoparticles *Chem. Mater.* **2016**, *28*, 2348-2355. [link](https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b00493)|![](/assets/img/TOC_final.jpg)|
+
