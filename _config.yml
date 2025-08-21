@@ -266,7 +266,7 @@ scholar:
   last_name: [Rao]
   first_name: [Anish]
 
-  style: /_bibliography/acs.csl
+  style: /_bibliography/american-chemical-society.csl
   locale: en
 
   source: /_bibliography/
