@@ -266,7 +266,7 @@ scholar:
   last_name: [Rao]
   first_name: [Anish]
 
-  style: acs
+  style: /_bibliography/acs.csl
   locale: en
 
   source: /_bibliography/
