@@ -263,10 +263,10 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Rao]
+  first_name: [Anish]
 
-  style: apa
+  style: acs
   locale: en
 
   source: /_bibliography/
