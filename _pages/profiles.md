@@ -16,8 +16,4 @@ profiles:
     more_info: >
       <p>Placeholder</p>
       <p>Placeholder</p>
-  - align: left
-    image: prof_pic_color.jpg
-    content: about_einstein.md.
-    image_circular: false # crops the image to make it circular
 ---
