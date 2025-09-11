@@ -2,10 +2,12 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Here is the link to my [Google Scholar](https://scholar.google.com/citations?user=EA-CJZoAAAAJ&hl=en). Click on the TOC to have a closer look at them.
+description: "My publications in reverse chronological order. Click on the TOC to have a closer look at them."
 nav: true
 nav_order: 2
 ---
+
+Here is the link to my [Google Scholar](https://scholar.google.com/citations?user=EA-CJZoAAAAJ&hl=en).  
 
 <!-- _pages/publications.md -->
 
