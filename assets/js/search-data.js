@@ -14,7 +14,7 @@ ninja.data = [{
           description: "My publications in reverse chronological order. Click on the TOC to have a closer look at them.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/publications/";
+            window.location.href = "/https:/scholar.google.com/citations?user=EA-CJZoAAAAJ&hl=en";
           },
         },{id: "nav-projects",
           title: "projects",
