@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /publications/
+permalink: https://scholar.google.com/citations?user=EA-CJZoAAAAJ&hl=en
 title: publications
 description: "My publications in reverse chronological order. Click on the TOC to have a closer look at them."
 nav: true
