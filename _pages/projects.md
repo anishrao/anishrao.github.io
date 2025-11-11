@@ -9,6 +9,20 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
+**Fair warning: Work in progress!**
+
+Please ignore most of the content below this paragraph while I get the house in order. For a quick glimpse into what actually interests me, check out the [selected publications](/publications/) section instead.
+
+The TL;DR: I am fascinated by self-assembly (especially in non-equilibrium systems), designing sensing protocols, developing principles for efficient catalysis, and more recently, using automation and AI to modernize scientific workflows.
+
+**Why you might want to get in touch:**
+- If any of this sounds interesting to you (or vice versa—maybe what you do could interest us!)
+- If you need high-quality nanoparticles for nanoplasmonic applications (yes, we make them really well—pictures coming soon, I promise!)
+
+Feel free to reach out. I hope you found what you came looking for! :)
+
+---
+
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
