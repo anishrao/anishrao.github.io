@@ -9,7 +9,7 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-**Fair warning: Work in progress!**
+**Fair warning: This webpage is a work in progress!**
 
 Please ignore most of the content below this paragraph while I get the house in order. For a quick glimpse into what actually interests me, check out the **selected publications** section on the main page instead.
 
