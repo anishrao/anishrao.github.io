@@ -5,7 +5,7 @@
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Anish
 middle_name: 
-last_name: Rao (आनिश राव)
+last_name: Rao (आनिश) / (ਅਨੀਸ਼)
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -174,8 +174,8 @@ include: ["_pages", "_scripts"]
 exclude:
   - bin/
   - repositories.md
-  - teaching.md
-  - cv.md
+  #- teaching.md
+  #- cv.md
   - blog.md
   - books.md
   - CONTRIBUTING.md
