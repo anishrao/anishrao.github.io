@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A growing collection of our projects.
 nav: true
 nav_order: 3
 display_categories: [work, fun]
@@ -11,7 +11,7 @@ horizontal: false
 
 **Fair warning: Work in progress!**
 
-Please ignore most of the content below this paragraph while I get the house in order. For a quick glimpse into what actually interests me, check out the [selected publications](/publications/) section instead.
+Please ignore most of the content below this paragraph while I get the house in order. For a quick glimpse into what actually interests me, check out the **selected publications** section on the main page instead.
 
 The TL;DR: I am fascinated by self-assembly (especially in non-equilibrium systems), designing sensing protocols, developing principles for efficient catalysis, and more recently, using automation and AI to modernize scientific workflows.
 
