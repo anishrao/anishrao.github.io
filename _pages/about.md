@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of Fribourg</a>. 
+subtitle: <a href='#'>Department of Chemistry, BITS Pilani</a> 
 
 profile:
   align: right
