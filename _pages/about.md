@@ -9,9 +9,11 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Placeholder</p>
-    <p>Placeholder</p>
-    <p>Placeholder</p>
+    <p>Assistant Professor,</p>
+    <p>Department of Chemistry, BITS Pilani.</p>
+    <p>Email: anish.rao@pilani.bits-pilani.ac.in</p>
+    <p>Contact: +91 1596 255899</p>
+    <p>Office: 2243 - H, FD II</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
