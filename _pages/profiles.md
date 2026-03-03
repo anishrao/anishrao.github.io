@@ -11,9 +11,8 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: prof_pic.jpg
-    content: about_einstein.md
+    content: Feels like I am saying a bit too much about myself here. Information regarding me can be found on this site at other places, but check out the people I get to work with!
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Placeholder</p>
-      <p>Placeholder</p>
+      <p>Anish, the PI</p>
 ---
