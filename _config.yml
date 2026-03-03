@@ -175,7 +175,7 @@ exclude:
   - bin/
   - repositories.md
   #- teaching.md
-  #- cv.md
+  - cv.md
   - blog.md
   - books.md
   - CONTRIBUTING.md
