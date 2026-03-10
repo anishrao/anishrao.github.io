@@ -4,15 +4,14 @@
     "label": "Assistant Professor",
     "image": "",
     "email": "anishrao95@gmail.com",
-    "phone": "(+41) ",
+    "phone": "(+91) 1596 255899 ",
     "url": "https://anishrao.github.io/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Department of Chemistry, BITS Pilani",
+      "postalCode": "333031",
+      "city": "Pilani",
+      "countryCode": "In",
+      "region": "Rajasthan"
     },
     "profiles": [
       {
@@ -24,38 +23,44 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Department of Chemistry, BITS Pilani",
+      "position": "Assistant Professor",
+      "url": "https://anishrao.github.io/",
+      "startDate": "01-12-2025",
+      "endDate": "present",
+      "summary": "I am an Assistant Professor in the Department of Chemistry at BITS Pilani. My research interests include understanding and designing nanoparticle based complex systems for next generation of sensing and catalysis. I also use AI and automation to accelerate science.",
+      "highlights": ["Self-Assembly, Nanoparticle Catalysis, Sensing, Non-equilibrium Systems, AI for Science, Plasmonics"]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Indian Institute of Science Education and Research (IISER) Pune",
+      "location": "Pune, India",
+      "url": "https://www.iiserpune.ac.in/",
+      "area": "Plasmonics, Self-Assembly, Nanoparticle Catalysis, Sensing, Non-equilibrium Systems",
+      "studyType": "Integrated PhD Chemistry (MS + PhD)",
+      "startDate": "2013",
+      "endDate": "2020"
+    },
+        {
+      "institution": "Indian Institute of Science Education and Research (IISER) Pune",
+      "location": "Pune, India",
+      "url": "https://www.iiserpune.ac.in/",
+      "area": "Plasmonics, Self-Assembly, Nanoparticle Catalysis, Sensing, Non-equilibrium Systems",
+      "studyType": "Integrated PhD Chemistry (MS + PhD)",
+      "startDate": "2013",
+      "endDate": "2020"
+    }
+  ],
+    "education": [
+    {
+      "institution": "Indian Institute of Science Education and Research (IISER) Pune",
+      "location": "Pune, India",
+      "url": "https://www.iiserpune.ac.in/",
+      "area": "Plasmonics, Self-Assembly, Nanoparticle Catalysis, Sensing, Non-equilibrium Systems",
+      "studyType": "Integrated PhD Chemistry (MS + PhD)",
+      "startDate": "2013",
+      "endDate": "2020"
     }
   ],
   "awards": [
