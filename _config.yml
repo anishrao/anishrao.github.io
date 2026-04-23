@@ -637,12 +637,9 @@ jekyll_get_json:
 jsonresume:
   - basics
   - work
+  - postdoc
   - education
-  - publications
-  - projects
-  - volunteer
-  - awards
-  - certificates
+  - languages
   - skills
   - languages
   - interests

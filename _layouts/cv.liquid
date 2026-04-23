@@ -90,7 +90,11 @@ layout: default
           {% if data[0] == 'meta' or data[1].size == 0 %} {% continue %} {% endif %}
           <a class="anchor" id="{{ data[0] }}"></a>
           <div class="card mt-3 p-3">
-            <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
+            {% if data[0] == 'postdoc' %}
+              <h3 class="card-title font-weight-medium">Postdoctoral Experience</h3>
+            {% else %}
+              <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
+            {% endif %}
             <div>
               {% case data[0] %}
                 {% when 'basics' %}
@@ -98,6 +102,8 @@ layout: default
                 {% when 'education' %}
                   {% include resume/education.liquid %}
                 {% when 'work' %}
+                  {% include resume/work.liquid %}
+                {% when 'postdoc' %}
                   {% include resume/work.liquid %}
                 {% when 'volunteer' %}
                   {% include resume/volunteer.liquid %}
