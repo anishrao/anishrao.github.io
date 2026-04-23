@@ -38,6 +38,18 @@
       institution: Department of Chemistry, BITS Pilani, Rajasthan, India
       year: December 2025 - Present
 
+    - title: Graduate Research Assistant
+      institution: IISER Pune, India
+      year: 2015 - 2020
+      description:
+        - Demonstrated control over interparticle interactions to improve and induce emergent properties in AuNP systems.
+        - Designed reusable and selective nanoparticle-based sensors.
+        - Developed transient self-assembled nanoparticle systems.
+        - Mentored undergraduate research students.
+
+- title: Postdoctoral Experience
+  type: time_table
+  contents:
     - title: Postdoctoral Researcher
       institution: University of Fribourg, Switzerland
       year: January 2025 - November 2025
@@ -63,15 +75,6 @@
         - Formed AuNR–quantum dot assemblies using nanoscale forces.
         - Investigated plasmon-enhanced emission and photothermal heating.
         - Integrated bottom-up and top-down fabrication strategies.
-
-    - title: Graduate Research Assistant
-      institution: IISER Pune, India
-      year: 2015 - 2020
-      description:
-        - Demonstrated control over interparticle interactions to improve and induce emergent properties in AuNP systems.
-        - Designed reusable and selective nanoparticle-based sensors.
-        - Developed transient self-assembled nanoparticle systems.
-        - Mentored undergraduate research students.
 
 - title: Publications
   type: list
