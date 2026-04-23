@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Assistant Professor,</p>
     <p>Department of Chemistry, BITS Pilani.</p>
-    <p>Email: anish.rao@pilani.bits-pilani.ac.in</p>
+    <p style="white-space: nowrap;">Email: anish.rao@pilani.bits-pilani.ac.in</p>
     <p>Contact: +91 1596 255899</p>
     <p>Office: 2243 - H, FD II</p>
 

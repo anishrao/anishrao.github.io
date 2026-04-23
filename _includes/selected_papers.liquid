@@ -1,3 +1,19 @@
 <div class="publications">
-  {% bibliography --group_by none --query @*[selected=true]* %}
+  <h4 class="research-area-label">Self-assembly and Sensing</h4>
+  {% bibliography --group_by none --query @*[topic=self-assembly-sensing] %}
+
+  <h4 class="research-area-label">Selective Sensing</h4>
+  {% bibliography --group_by none --query @*[topic=selective-sensing] %}
+
+  <h4 class="research-area-label">Nanoparticle Catalysis</h4>
+  {% bibliography --group_by none --query @*[topic=nanoparticle-catalysis] %}
+
+  <h4 class="research-area-label">Transient Self-assembly</h4>
+  {% bibliography --group_by none --query @*[topic=transient-self-assembly] %}
+
+  <h4 class="research-area-label">Bayesian Optimization</h4>
+  {% bibliography --group_by none --query @*[topic=bayesian-optimization] %}
+
+  <h4 class="research-area-label">Oscillating Systems</h4>
+  {% bibliography --group_by none --query @*[topic=oscillating-systems] %}
 </div>

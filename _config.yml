@@ -322,6 +322,7 @@ filtered_bibtex_keywords:
     preview,
     selected,
     slides,
+    topic,
     supp,
     video,
     website,
