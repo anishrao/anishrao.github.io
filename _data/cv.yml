@@ -36,7 +36,7 @@
   contents:
     - title: Assistant Professor
       institution: Department of Chemistry, BITS Pilani, Rajasthan, India
-      year: December 2025 - Present
+      year: 01/12/2025 - Present
 
     - title: Graduate Research Assistant
       institution: IISER Pune, India
@@ -50,17 +50,9 @@
 - title: Postdoctoral Experience
   type: time_table
   contents:
-    - title: Postdoctoral Researcher
-      institution: University of Fribourg, Switzerland
-      year: January 2025 - November 2025
-      description:
-        - Supervisor: Prof. Guillermo P. Acuna
-        - Surface engineering and self-assembly of high-index silicon nanoparticles (SiNPs) for DNA-programmed crystallization.
-        - DNA origami-directed assembly of SiNP dimers for chiral sensing.
-
     - title: Juan de la Cierva Fellow
       institution: Centro de Física de Materiales (CFM), Spain
-      year: January 2023 - December 2024
+      year: 01/01/2023 - 01/12/2024
       description:
         - Supervisor: Prof. Marek Grzelczak
         - Applied Bayesian optimization, machine learning, and automation to understand gold nanorod growth.
@@ -69,12 +61,20 @@
 
     - title: Postdoctoral Researcher
       institution: CIC biomaGUNE, Spain
-      year: September 2020 - November 2022
+      year: 01/09/2020 - 01/11/2022
       description:
         - Supervisor: Prof. Luis M. Liz-Marzán
         - Formed AuNR–quantum dot assemblies using nanoscale forces.
         - Investigated plasmon-enhanced emission and photothermal heating.
         - Integrated bottom-up and top-down fabrication strategies.
+
+    - title: Postdoctoral Researcher
+      institution: University of Fribourg, Switzerland
+      year: 01/01/2025 - 01/11/2025
+      description:
+        - Supervisor: Prof. Guillermo P. Acuna
+        - Surface engineering and self-assembly of high-index silicon nanoparticles (SiNPs) for DNA-programmed crystallization.
+        - DNA origami-directed assembly of SiNP dimers for chiral sensing.
 
 - title: Publications
   type: list
