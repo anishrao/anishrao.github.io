@@ -1,16 +1,15 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Courses I have taught, survived, and occasionally enjoyed grading :)
+title: Teaching
+description: Courses I have taught, survived, and occasionally enjoyed grading  :)
 nav: true
-nav_order: 6
+nav_order: 7
 ---
 
 ## 2025 — Semester II
 
-- *CHEM F101* — Fundamentals of Chemistry  
-  *BITS Pilani*  
+- **CHEM F101 — Fundamentals of Chemistry**  
   Lab + Theory
 
 ---
