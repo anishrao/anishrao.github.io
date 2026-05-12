@@ -38,7 +38,7 @@ ninja.data = [{
             window.location.href = "/people/";
           },
         },{id: "nav-teaching",
-          title: "Teaching",
+          title: "teaching",
           description: "Courses I have taught, survived, and occasionally enjoyed grading  :)",
           section: "Navigation",
           handler: () => {
