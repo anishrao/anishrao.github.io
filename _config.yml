@@ -174,7 +174,7 @@ include: ["_pages", "_scripts"]
 exclude:
   - bin/
   - repositories.md
-  #- teaching.md
+  - teaching.md
   - cv.md
   - blog.md
   - books.md
