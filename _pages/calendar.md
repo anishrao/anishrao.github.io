@@ -1,7 +1,6 @@
 ---
 layout: page
 permalink: /Calendar/
-title: my calendar
 nav: true
 nav_order: 8
 ---
@@ -13,7 +12,7 @@ nav_order: 8
 </p>
 
 <iframe
-    src="https://calendar.google.com/calendar/u/1?cid=YW5pc2gucmFvQHBpbGFuaS5iaXRzLXBpbGFuaS5hYy5pbg"
+    src="https://calendar.google.com/calendar/embed?src=anish.rao%40pilani.bits-pilani.ac.in&ctz=Asia%2FKolkata"
     style="border:0"
     width="100%"
     height="700"
