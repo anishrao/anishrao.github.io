@@ -13,7 +13,7 @@ nav_order: 8
 </p>
 
 <iframe
-    src="https://calendar.google.com/calendar/embed?src=YOUR_PUBLIC_CALENDAR_ID&ctz=Asia%2FKolkata"
+    src="https://calendar.google.com/calendar/u/1?cid=YW5pc2gucmFvQHBpbGFuaS5iaXRzLXBpbGFuaS5hYy5pbg"
     style="border:0"
     width="100%"
     height="700"
