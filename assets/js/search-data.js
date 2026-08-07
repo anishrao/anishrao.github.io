@@ -45,7 +45,7 @@ ninja.data = [{
             window.location.href = "/teaching/";
           },
         },{id: "nav-my-calendar",
-          title: "my Calendar",
+          title: "my calendar",
           description: "",
           section: "Navigation",
           handler: () => {
