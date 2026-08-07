@@ -2,13 +2,14 @@
 layout: page
 permalink: /Calendar/
 nav: true
-nav_order: 8
+nav_order: 7
+
 ---
 
 <h2>Availability</h2>
 
 <p class="calendar-note">
-<strong>Scheduling Notice:</strong> This calendar provides an approximate view of my availability. Research activities, student meetings, experiments, travel, and other commitments may not always appear here. Please treat visible free slots as tentative until I confirm your meeting request.
+<strong>Scheduling Notice:</strong> This calendar provides an rough overview of my availability. Research activities, student meetings, experiments, travel, and other commitments may not always appear here. Please treat visible free slots as tentative free slots.
 </p>
 
 <iframe
