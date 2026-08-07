@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /Calendar/
-title: My Calendar
+title: my Calendar
 nav: true
 nav_order: 8
 ---
