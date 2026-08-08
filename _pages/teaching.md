@@ -19,6 +19,3 @@ nav_order: 7
 - **CHEM U101 — Atomic Structure Bonding & Spectroscopy**  
 - **CHEM U110 - Chemistry Laboratory**
 
-
-
-More courses (and more chalk dust) coming soon.
