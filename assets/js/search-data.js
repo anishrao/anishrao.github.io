@@ -30,13 +30,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-calendar",
-          title: "calendar",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/calendar/";
-          },
         },{id: "nav-people",
           title: "people",
           description: "members of the lab or group",
@@ -50,6 +43,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
+          },
+        },{id: "nav-",
+          title: "",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/calendar/";
           },
         },{id: "post-a-post-with-plotly-js",
         
