@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ''
+title: calendar
 permalink: /calendar/
 nav: true
 nav_order: 8
