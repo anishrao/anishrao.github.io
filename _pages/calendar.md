@@ -1,6 +1,7 @@
 ---
 layout: page
-permalink: /Calendar/
+title: calendar
+permalink: /calendar/
 nav: true
 nav_order: 6
 
