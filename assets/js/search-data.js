@@ -14,7 +14,7 @@ ninja.data = [{
           description: "My publications in reverse chronological order. Click on the TOC to have a closer look at them.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/https:/scholar.google.com/citations?user=EA-CJZoAAAAJ&hl=en";
+            window.location.href = "/https:/scholar.google.com/citations?user=HcyXxQ4AAAAJ&hl=en&authuser=1";
           },
         },{id: "nav-projects",
           title: "projects",
@@ -504,7 +504,7 @@ ninja.data = [{
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=EA-CJZoAAAAJ&hl", "_blank");
+          window.open("https://scholar.google.com/citations?user=HcyXxQ4AAAAJ", "_blank");
         },
       },{
       id: 'light-theme',
